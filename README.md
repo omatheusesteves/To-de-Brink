@@ -15,3 +15,5 @@
 <div align="center">
 	
 <br>
+
+Made with ♥ and a lot of ☕ by Matheus Esteves
