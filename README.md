@@ -7,8 +7,8 @@
 </p>
 
 ## Site / Instagram
-- [Site](https://todebrink.com/)
-- [Instagram](https://www.instagram.com/todebrink/)
+- [todebrink.com](https://todebrink.com/)
+- [@todebrink](https://www.instagram.com/todebrink/)
 
 <p align="center">Projeto Ecommerce desenvolvido em ReactJS e Wordpress.</p>
 
